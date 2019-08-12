@@ -71,9 +71,6 @@ Config.ItemsMuhimmat = {
 		[3] = {label = "Agir Taramali Sarjor",      item = "sarjoragirtaramali",       price = 5},
     	[4] = {label = "Keskin Nisanci Sarjor",      item = "sarjorkeskin",       price = 5},
 		[5] = {label = "Pompali Sarjor",      item = "sarjorpompali",       price = 5},
-		[6] = {label = "Rasperry (Banka)",      item = "rasperry",       price = 5},
-		[7] = {label = "C4 (Banka)",      item = "c4_bank",       price = 5},
-		[8] = {label = "Pürmüz (Banka)",      item = "blowtorch",       price = 5},
 }
 
 
